@@ -19,7 +19,7 @@ export default function MortgageCalculator() {
    
     <div className="min-h-screen bg-[#f1f6f2] py-20 flex flex-col items-center mt-10">
       {/* Heading */}
-      <h1 className="text-4xl font-bold text-gray-900 mb-8 text-start w-full pl-64 leading-snug">
+      <h1 className="text-4xl font-bold text-gray-900 mb-8 text-start w-full md:pl-64 pl-3 leading-snug">
         Estimate your monthly <br /> mortgage payments
       </h1>
 
