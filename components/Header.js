@@ -49,7 +49,7 @@ export default function Header() {
         <div className="md:hidden bg-green-800 flex flex-col items-center space-y-4 py-6 text-lg font-medium">
         <Link href="/">Home</Link>
         <Link href="/about">About Us</Link>
-        <Link href="/mortgage">Mortgage Calculator</Link>
+        <Link href="/mortage">Mortgage Calculator</Link>
           <Link href="/startPage">Start Page</Link>
         <Link href="/contact">Contact Us</Link>
           <button className="flex items-center gap-2">
